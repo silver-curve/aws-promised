@@ -24,6 +24,7 @@ This is a list of the currently implemented clients:
 - [ElastiCache](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/ElastiCache.html)
 - [ELB](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/ELB.html)
 - [ES (Elasticsearch)](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/ES.html)
+- [ElasticTranscoder](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/ElasticTranscoder.html)
 - [IAM](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/IAM.html)
 - [IoT](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/Iot.html)
 - [IoTData](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/IotData.html)

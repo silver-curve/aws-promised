@@ -22,6 +22,7 @@ describe('index client factory', function() {
     ['ec2', 'EC2'],
     ['ecs', 'ECS'],
     ['elastiCache', 'ElastiCache'],
+    ['elasticTranscoder', 'ElasticTranscoder'],
     ['elb', 'ELB'],
     ['es', 'ES'],
     ['iam', 'IAM'],

@@ -109,6 +109,13 @@ module.exports = {
   elastiCache: require('./elastiCache'),
 
   /**
+   * Returns a Promise compliant AWS.ElasticTranscoder api
+   *
+   * @param {object} options The AWS.ElasticTranscoder constructor options.
+   */
+  elasticTranscoder: require('./elasticTranscoder'),
+
+  /**
    * Returns a Promises compliant AWS.ELB api.
    *
    * @param {object} options The AWS.ELB constructor options.
